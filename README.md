@@ -15,11 +15,9 @@
   </a>
 </p>
 
-<img 
-  src="https://i.pinimg.com/originals/32/11/d9/3211d90a0145d5169ec0354260ad0e2e.gif" 
-  width="600" 
-  style="border-radius: 12px;"
-/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/76/b4/64/76b4645640120014ba9c4fb26dbd40fd.gif" width="600"/>
+</p>
 
 ```ts
 const saniyaGoyal = {
