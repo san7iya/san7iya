@@ -1,41 +1,11 @@
-<p align="center" style="margin-bottom: 5px;">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Hi%20There!&fontSize=72&fontColor=EAF6FF&animation=fadeIn&color=0:120458,50:0A6CFF,100:4CC9F0" 
-    alt="Header"
-  />
-</p>
-
-<h2 align="center">🌐 Let's Connect</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/saniya7goyal">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="45"/>
-  </a>
-  <a href="mailto:saniya7goyal@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" width="43"/>
-  </a>
-</p>
+## Hey, I'm Saniya :)  
+A full-stack developer driven by purpose and curiosity. I enjoy turning ideas into real-world products, exploring AI-powered systems, and building technology that actually makes a difference. Welcome to my little corner on GitHub!
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/76/b4/64/76b4645640120014ba9c4fb26dbd40fd.gif" width="600"/>
 </p>
 
-```ts
-const saniyaGoyal = {
-  name: "Saniya Goyal",
-  location: "India",
-  role: "Full-Stack Developer",
-  focus: "Purpose-driven technology",
-  currentlyExploring: ["AI", "Data-driven systems"],
-  development: {
-    frontend: ["React", "React Native"],
-    backend: ["Node.js", "Express"],
-    databases: ["MongoDB", "PostgreSQL"],
-    cloud: ["Firebase", "AWS"]
-  }
-};
 
-console.log(saniyaGoyal);
-```
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -107,5 +77,15 @@ console.log(saniyaGoyal);
 </table>
 </div>
 
+
+<h2>🌐 Let's Connect</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saniya7goyal">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="45"/>
+  </a>
+  <a href="mailto:saniya7goyal@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" width="43"/>
+  </a>
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:120458,50:0A6CFF,100:4CC9F0)
