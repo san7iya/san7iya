@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" alt="Saniya Goyal — full-stack dev building AI-powered systems" width="760">
+<img src="header.png" alt="Saniya Goyal — full-stack dev building AI-powered systems" width="760">
 
 <br><br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=san7iya&show_icons=true&hide_border=true&bg_color=060608&title_color=f2a2e2&icon_color=f2a2e2&text_color=eef0f2&ring_color=f2a2e2" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san7iya&layout=compact&hide_border=true&bg_color=060608&title_color=f2a2e2&text_color=eef0f2&langs_count=8" height="165" alt="Top languages">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=san7iya&show_icons=true&hide_border=true&bg_color=060608&title_color=f2a2e2&icon_color=f2a2e2&text_color=eef0f2&ring_color=f2a2e2" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san7iya&layout=compact&hide_border=true&bg_color=060608&title_color=f2a2e2&text_color=eef0f2&langs_count=8" height="165" alt="Top languages"> -->
 
 </div>
